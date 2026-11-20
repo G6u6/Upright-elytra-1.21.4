@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"elytra-upright","version":"${version}","name":"Elytra Upright","description":"Keeps the player standing upright while gliding with elytra.","authors":["You"],"license":"MIT","environment":"client","mixins":["elytra-upright.mixins.json"],"depends":{"fabricloader":">=0.16.0","minecraft":"~1.21.4","java":">=21"}}
